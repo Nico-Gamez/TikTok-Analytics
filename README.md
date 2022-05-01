@@ -1,7 +1,7 @@
 # TikTok Analytics
 Project created to allow the **analysis of trending on the TikTok platform**, through graphs, datasets and relationships between variables.
 
-TikTok-Api install (https://github.com/davidteather/TikTok-Api)
+**TikTok-Api install (https://github.com/davidteather/TikTok-Api)**
 ```
 pip install TikTokApi
 python -m playwright install
