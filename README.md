@@ -3,10 +3,22 @@ Project created to allow the **analysis of trending on the TikTok platform**, th
 
 Python and Streamlit are used
 
+**-** Create a virtual enviroment called *"tiktokanalytics"* using the command
+
+```
+.python -m venv tiktokanalytics
+```
+
 **-** Activate the virtual environment called *"tiktokanalytics"* using the command in CMD:
 ```
 .\tiktokanalytics\Scripts\activate
 ```
+
+**-** If you want install the enviroment on Jupyter you can do it with
+```
+python -m pip install ipykernel
+```
+
 **-** Install Streamlit via command
 ```
 pip install streamlit
